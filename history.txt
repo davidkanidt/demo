@@ -1,0 +1,92 @@
+    1  jupyter lab
+    2  conda
+    3  conda
+    4  python --version
+    5  jupyterlab
+    6  jupyter lab
+    7  vi
+    8  nano
+    9  #bash
+   10  echo $0
+   11  echo $0
+   12  ps
+   13  ipython
+   14  ls
+   15  cd ..
+   16  cd dkan
+   17  cd Galvanize
+   18  ls
+   19  cd w1d1
+   20  touch a.py
+   21  ls
+   22  rm a.py
+   23  ls
+   24  touch {1..5}.{txt,py}
+   25  ls
+   26  rm *.txt
+   27  ls
+   28  cp 1.py 1-copy.py
+   29  ls
+   30  rm*
+   31  rm *
+   32  touch main.py
+   33  vi main.py
+   34  vi main.py
+   35  python --version
+   36  python main.py
+   37  curl https://people.sc.fsu.edu/~jburkardt/data/csv/zillow.csv
+   38  ls
+   39  curl https://people.sc.fsu.edu/~jburkardt/data/csv/zillow.csv > zillow.csv
+   40  ls
+   41  ls -al
+   42  cat zillow.csv
+   43  head zillow.csv
+   44  head -n 2 zillow.csv
+   45  czt zillow.csv | grep 3
+   46  cat zillow.csv | grep 3
+   47  cat zillow.csv | grep 3200
+   48  vi demo.txt
+   49  cat demo.txt
+   50  cat zillow>csv | wc
+   51  cat zillow.csv | wc
+   52  cat zillow.csv | sort
+   53  cat demo.txt | sort
+   54  cat demo.txt | sort | uniq
+   55  cat demo.txt | sort | uniq > cool_demo.txt
+   56  cat cool_demo.txt 
+   57  x = 3
+   58  echo $x
+   59  x=3
+   60  echo $x
+   61  os.environ['x']
+   62  print('x is :', os.environ['x'])
+   63  import os
+   64  python main.py
+   65  vi main.py
+   66  python main.py
+   67  export x = 3
+   68  export x=3
+   69  python main.py
+   70  git --version
+   71  which git
+   72  ls
+   73  ls
+   74  mkdir git
+   75  cd git
+   76  pwd
+   77  git config --global user.email "david.kan@idt.net"
+   78  git config --global user.name davidkanidt
+   79  git config -l | grep user
+   80  cd
+   81  cd Galvanize
+   82  cd w1d1
+   83  cd git
+   84  ls
+   85  mkdir demo
+   86  cd demo
+   87  touch {a,b,c}.py
+   88  ls
+   89  clear
+   90  history
+   91  clear
+   92  history > history.txt

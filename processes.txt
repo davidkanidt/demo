@@ -1,0 +1,4 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1707    1488    1707      15984  pty0     1092046 09:19:46 /usr/bin/ps
+     1488    1487    1488      21292  pty0     1092046 09:12:40 /usr/bin/bash
+     1487       1    1487      11420  ?        1092046 09:12:39 /usr/bin/mintty
